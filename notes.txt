@@ -1,0 +1,2 @@
+The models are responsible for view creation (migration)
+and database table creation (ef)
